@@ -2,3 +2,10 @@ March 30
 run hisat2 here
 /u/home/s/serghei/collab/Jacob.Ellison2
 
+run htseq
+using master.htseq.sh
+
+sorted bams file to be upload to BOX 
+and  count are
+here /u/home/s/serghei/collab/Jacob.Ellison2/bams
+
