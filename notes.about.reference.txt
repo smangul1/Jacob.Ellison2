@@ -1,0 +1,11 @@
+Hi Serghei,
+
+Matteo is right that I have done a lot of RNA-Seq in Chlamydomonas. I wasn't privy to the earlier conversation, and I don't know what genome assembly you are using.  
+
+The keeper of the most up-to-date assembly and annotations is the JGI. Their current genome is at v5.0 (Creinhardtii_281_v5.0.softmasked.fa.gz). The current annotations are at v5.5 (Creinhardtii_281_v5.5.gene.gff3.gz), although there is a pre-release of the next version available (v5.6) there too. Unless there is another reason to use something else, I would get those files from the JGI and use them. You shouldn't have any problems with agreement between that assembly and annotation file.
+
+Here is the link to download those files from the JGI:
+https://phytozome.jgi.doe.gov/pz/portal.html#!bulk?org=Org_Creinhardtii
+
+Cheers,
+Sean

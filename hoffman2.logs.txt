@@ -1,0 +1,4 @@
+March 30
+run hisat2 here
+/u/home/s/serghei/collab/Jacob.Ellison2
+
