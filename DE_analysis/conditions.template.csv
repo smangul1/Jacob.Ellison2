@@ -1,0 +1,13 @@
+sampleName,fileName,condition
+1-b,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_1-b_S6_R1_001.fastq.counts,b
+1-m,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_1-m_S5_R1_001.fastq.counts,m
+1-t,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_1-t_S4_R1_001.fastq.counts,t
+10-b,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_10-b_S12_R1_001.fastq.counts,b
+10-m,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_10-m_S11_R1_001.fastq.counts,m
+10-t,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_10-t_S10_R1_001.fastq.counts,t
+5-b,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_5-b_S9_R1_001.fastq.counts,b
+5-m,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_5-m_S8_R1_001.fastq.counts,m
+5-t,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_5-t_S7_R1_001.fastq.counts,t
+s-b,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_s-b_S3_R1_001.fastq.counts,b
+s-m,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_s-m_S2_R1_001.fastq.counts,m
+s-t,/Users/serghei/code/Jacob.Ellison2/DE_analysis/_s-t_S1_R1_001.fastq.counts,t
